@@ -3186,4 +3186,3 @@ export default function SeenApp() {
   );
 }
 
-export default App;
